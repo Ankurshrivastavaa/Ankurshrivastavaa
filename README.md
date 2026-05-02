@@ -38,7 +38,7 @@ Passionate about clean code, scalable architecture, and solving real problems.
 
 ### 📊 GitHub Stats
 
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankurshrivastavaa&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankurshrivastavaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
